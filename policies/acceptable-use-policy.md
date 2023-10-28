@@ -56,5 +56,4 @@ We exclude our liability for all action we may take in response to any of your b
 If you have any further questions or comments, you may contact us by:
 
 * Email: [legal@thiboverbeerst.com](mailto:legal@thiboverbeerst.com)
-* Online contact form: [https://www.thiboverbeerst.com/contact](https://www.thiboverbeerst.com/contact)
 

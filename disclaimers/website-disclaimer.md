@@ -14,7 +14,7 @@ The Site may contain (or you may be sent through the Site) links to other websit
 
 ## Professional Disclaimer
 
-The Site cannot and does not contain it professional advice. The it professional information is provided for general informational and educational purposes only and is not a substitute for professional advice. Accordingly, before taking any actions based upon such information, we encourage you to consult with the appropriate professionals. We do not provide any kind of it professional advice. THE USE OR RELIANCE OF ANY INFORMATION CONTAINED ON THE SITE IS SOLELY AT YOUR OWN RISK.
+The Site cannot and does not contain Information Technology advice. The Information Technology information is provided for general informational and educational purposes only and is not a substitute for professional advice. Accordingly, before taking any actions based upon such information, we encourage you to consult with the appropriate professionals. We do not provide any kind of Information Technology advice. THE USE OR RELIANCE OF ANY INFORMATION CONTAINED ON THE SITE IS SOLELY AT YOUR OWN RISK.
 
 ## Testimonials Disclaimer
 
