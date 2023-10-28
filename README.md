@@ -7,7 +7,7 @@ description: >-
 
 # Privacy Policy
 
-**Last updated October 22, 2023**
+**Last updated:** _Please refer to the information provided in the footer section of this document._
 
 \------
 
