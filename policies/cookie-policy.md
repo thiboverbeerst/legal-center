@@ -11,7 +11,7 @@ description: >-
 
 ***
 
-This Cookie Policy explains how Thibo Verbeerst ("**Company**," "**we**," "**us**," and "**our**") uses cookies and similar technologies to recognize you when you visit our website at  [http://www.thiboverbeerst.com](http://www.thiboverbeerst.com) ("**Website**"). It explains what these technologies are and why we use them, as well as your rights to control our use of them.
+This Cookie Policy explains how Thibo Verbeerst, also doing business as Nerdclub ("**Company**," "**we**," "**us**," and "**our**"), uses cookies and similar technologies to recognize you when you visit our website at  [http://www.thiboverbeerst.com](http://www.thiboverbeerst.com) ("**Website**"). It explains what these technologies are and why we use them, as well as your rights to control our use of them.
 
 The cookie banner ("**Cookie Banner**") refers to the notification that appears at the bottom (or top) of your screen when you first visit our website. See the image below for reference.
 
