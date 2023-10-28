@@ -9,7 +9,7 @@ description: >-
 
 **Last updated:** _Please refer to the information provided in the footer section of this document._
 
-\------
+***
 
 This privacy notice for Thibo Verbeerst ("**we**," "**us**," or "**our**"), describes how and why we might collect, store, use, and/or share ("**process**") your information when you use our services ("**Services**"), such as when you:
 

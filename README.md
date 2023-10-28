@@ -20,7 +20,7 @@ layout:
     visible: false
 ---
 
-# ⚖ Legal Center
+# Overview
 
 ## Policies
 

@@ -9,4 +9,4 @@ description: >-
 
 **Last updated:** _Please refer to the information provided in the footer section of this document._
 
-_------_
+***
