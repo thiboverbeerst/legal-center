@@ -48,10 +48,14 @@ We collect personal information that you voluntarily provide to us when you expr
 
 **Personal Information Provided by You.** The personal information that we collect depends on the context of your interactions with us and the Services, the choices you make, and the products and features you use. The personal information we collect may include the following:
 
-* names
+* first and last name
 * email addresses
-* contact or authentication data
 * contact preferences
+* location data
+* personal address
+* other personal data that you actively provide, for example by filling in a form on Services
+* information about your activities on our website
+* Internet browser and device type
 
 **Sensitive Information.** We do not process sensitive information.
 
