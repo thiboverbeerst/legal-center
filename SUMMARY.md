@@ -1,6 +1,6 @@
 # Table of contents
 
-* [⚖ Legal Center](README.md)
+* [⚖ Overview](README.md)
 
 ## Policies
 
