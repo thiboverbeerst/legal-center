@@ -51,11 +51,8 @@ We collect personal information that you voluntarily provide to us when you expr
 * first and last name
 * email addresses
 * contact preferences
-* location data
 * personal address
-* other personal data that you actively provide, for example by filling in a form on Services
-* information about your activities on our website
-* Internet browser and device type
+* other personal data that you voluntarily submit, for instance, by completing a form on the Services
 
 **Sensitive Information.** We do not process sensitive information.
 
