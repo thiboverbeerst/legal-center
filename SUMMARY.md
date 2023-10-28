@@ -1,6 +1,9 @@
 # Table of contents
 
-* [Policies Center](README.md)
-* [Privacy Policy](<README (1).md>)
-* [Cookie Policy](cookie-policy.md)
-* [Terms of Use](terms-of-use.md)
+* [⚖ Legal Center](README.md)
+
+## Policies
+
+* [Privacy Policy](policies/privacy-policy.md)
+* [Cookie Policy](policies/cookie-policy.md)
+* [Terms of Use](policies/terms-of-use.md)

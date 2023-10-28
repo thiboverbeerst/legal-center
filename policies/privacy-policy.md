@@ -22,21 +22,21 @@ This privacy notice for Thibo Verbeerst ("**we**," "**us**," or "**our**"), desc
 
 _**This summary provides key points from our privacy notice, but you can find out more details about any of these topics by clicking the link following each key point or by using our table of contents on the right to find the section you are looking for.**_
 
-**What personal information do we process?** When you visit, use, or navigate our Services, we may process personal information depending on how you interact with us and the Services, the choices you make, and the products and features you use. Learn more about [personal information you disclose to us](<README (1).md#personal-information-you-disclose-to-us>).
+**What personal information do we process?** When you visit, use, or navigate our Services, we may process personal information depending on how you interact with us and the Services, the choices you make, and the products and features you use. Learn more about [personal information you disclose to us](privacy-policy.md#personal-information-you-disclose-to-us).
 
 **Do we process any sensitive personal information?** We do not process sensitive personal information.
 
 **Do we receive any information from third parties?** We do not receive any information from third parties.
 
-**How do we process your information?** We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent. We process your information only when we have a valid legal reason to do so. Learn more about [how we process your information](<README (1).md#2.-how-do-we-process-your-information>).
+**How do we process your information?** We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent. We process your information only when we have a valid legal reason to do so. Learn more about [how we process your information](privacy-policy.md#2.-how-do-we-process-your-information).
 
-**In what situations and with which parties do we share personal information?** We may share information in specific situations and with specific third parties. Learn more about [when and with whom we share your personal information](<README (1).md#4.-when-and-with-whom-do-we-share-your-information>).
+**In what situations and with which parties do we share personal information?** We may share information in specific situations and with specific third parties. Learn more about [when and with whom we share your personal information](privacy-policy.md#4.-when-and-with-whom-do-we-share-your-information).
 
-**How do we keep your information safe?** We have organizational and technical processes and procedures in place to protect your personal information. However, no electronic transmission over the internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cyber criminals, or other unauthorized third parties will not be able to defeat our security and improperly collect, access, steal, or modify your information. Learn more about [how we keep your information safe](<README (1).md#7.-how-do-we-keep-your-information-safe>).
+**How do we keep your information safe?** We have organizational and technical processes and procedures in place to protect your personal information. However, no electronic transmission over the internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cyber criminals, or other unauthorized third parties will not be able to defeat our security and improperly collect, access, steal, or modify your information. Learn more about [how we keep your information safe](privacy-policy.md#7.-how-do-we-keep-your-information-safe).
 
-**What are your rights?** Depending on where you are located geographically, the applicable privacy law may mean you have certain rights regarding your personal information. Learn more about [your privacy rights](<README (1).md#9.-what-are-your-privacy-rights>).
+**What are your rights?** Depending on where you are located geographically, the applicable privacy law may mean you have certain rights regarding your personal information. Learn more about [your privacy rights](privacy-policy.md#9.-what-are-your-privacy-rights).
 
-**How do you exercise your rights?** The easiest way to exercise your rights is by [contacting us](<README (1).md#13.-how-can-you-contact-us-about-this-notice>). We will consider and act upon any request in accordance with applicable data protection laws.
+**How do you exercise your rights?** The easiest way to exercise your rights is by [contacting us](privacy-policy.md#13.-how-can-you-contact-us-about-this-notice). We will consider and act upon any request in accordance with applicable data protection laws.
 
 ## 1. What information do we collect?
 
@@ -81,7 +81,7 @@ _**In Short:** We process your information to provide, improve, and administer o
 * **To respond to user inquiries/offer support to users.** We may process your information to respond to your inquiries and solve any potential issues you might have with the requested service.
 * **To enable user-to-user communications.** We may process your information if you choose to use any of our offerings that allow for communication with another user.
 * **To request feedback.** We may process your information when necessary to request feedback and to contact you about your use of our Services.
-* **To send you marketing and promotional communications.** We may process the personal information you send to us for our marketing purposes, if this is in accordance with your marketing preferences. You can opt out of our marketing emails at any time. For more information, see "[What are your privacy rights?](<README (1).md#9.-what-are-your-privacy-rights>)" below.
+* **To send you marketing and promotional communications.** We may process the personal information you send to us for our marketing purposes, if this is in accordance with your marketing preferences. You can opt out of our marketing emails at any time. For more information, see "[What are your privacy rights?](privacy-policy.md#9.-what-are-your-privacy-rights)" below.
 * **To deliver targeted advertising to you.** We may process your information to develop and display personalized content and advertising tailored to your interests, location, and more.
 * **To protect our Services.** We may process your information as part of our efforts to keep our Services safe and secure, including fraud monitoring and prevention.
 * **To identify usage trends.** We may process information about how you use our Services to better understand how they are being used so we can improve them.
@@ -98,7 +98,7 @@ _If you are located in the EU or UK, this section applies to you._
 
 The General Data Protection Regulation (GDPR) and UK GDPR require us to explain the valid legal bases we rely on in order to process your personal information. As such, we may rely on the following legal bases to process your personal information:
 
-* **Consent.** We may process your information if you have given us permission (i.e., consent) to use your personal information for a specific purpose. You can withdraw your consent at any time. Learn more about [withdrawing your consent](<README (1).md#withdrawing-your-consent>).
+* **Consent.** We may process your information if you have given us permission (i.e., consent) to use your personal information for a specific purpose. You can withdraw your consent at any time. Learn more about [withdrawing your consent](privacy-policy.md#withdrawing-your-consent).
 * **Performance of a Contract.** We may process your personal information when we believe it is necessary to fulfill our contractual obligations to you, including providing our Services or at your request prior to entering into a contract with you.
 * **Legitimate Interests.** We may process your information when we believe it is reasonably necessary to achieve our legitimate business interests and those interests do not outweigh your interests and fundamental rights and freedoms. For example, we may process your personal information for some of the purposes described in order to:
   * Send users information about special offers and discounts on our products and services
@@ -114,7 +114,7 @@ The General Data Protection Regulation (GDPR) and UK GDPR require us to explain 
 
 _If you are located in Canada, this section applies to you._
 
-We may process your information if you have given us specific permission (i.e., express consent) to use your personal information for a specific purpose, or in situations where your permission can be inferred (i.e., implied consent). You can [withdraw your consent](<README (1).md#withdrawing-your-consent>) at any time.
+We may process your information if you have given us specific permission (i.e., express consent) to use your personal information for a specific purpose, or in situations where your permission can be inferred (i.e., implied consent). You can [withdraw your consent](privacy-policy.md#withdrawing-your-consent) at any time.
 
 In some exceptional cases, we may be legally permitted under applicable law to process your information without your consent, including, for example:
 
@@ -171,7 +171,7 @@ We do not knowingly solicit data from or market to children under 18 years of ag
 
 _**In Short:** In some regions, such as the European Economic Area (EEA), United Kingdom (UK), Switzerland, and Canada, you have rights that allow you greater access to and control over your personal information. You may review, change, or terminate your account at any time._
 
-In some regions (like the EEA, UK, Switzerland, and Canada), you have certain rights under applicable data protection laws. These may include the right (i) to request access and obtain a copy of your personal information, (ii) to request rectification or erasure; (iii) to restrict the processing of your personal information; (iv) if applicable, to data portability; and (v) not to be subject to automated decision-making. In certain circumstances, you may also have the right to object to the processing of your personal information. You can make such a request by contacting us by using the contact details provided in the section "[How can you contact us about this notice?](<README (1).md#13.-how-can-you-contact-us-about-this-notice>)" below.
+In some regions (like the EEA, UK, Switzerland, and Canada), you have certain rights under applicable data protection laws. These may include the right (i) to request access and obtain a copy of your personal information, (ii) to request rectification or erasure; (iii) to restrict the processing of your personal information; (iv) if applicable, to data portability; and (v) not to be subject to automated decision-making. In certain circumstances, you may also have the right to object to the processing of your personal information. You can make such a request by contacting us by using the contact details provided in the section "[How can you contact us about this notice?](privacy-policy.md#13.-how-can-you-contact-us-about-this-notice)" below.
 
 We will consider and act upon any request in accordance with applicable data protection laws.
 
@@ -181,13 +181,13 @@ If you are located in Switzerland, you may contact the [Federal Data Protection 
 
 ### Withdrawing your consent
 
-If we are relying on your consent to process your personal information, which may be express and/or implied consent depending on the applicable law, you have the right to withdraw your consent at any time. You can withdraw your consent at any time by contacting us by using the contact details provided in the section "[How can you contact us about this notice?](<README (1).md#13.-how-can-you-contact-us-about-this-notice>)" below.
+If we are relying on your consent to process your personal information, which may be express and/or implied consent depending on the applicable law, you have the right to withdraw your consent at any time. You can withdraw your consent at any time by contacting us by using the contact details provided in the section "[How can you contact us about this notice?](privacy-policy.md#13.-how-can-you-contact-us-about-this-notice)" below.
 
 However, please note that this will not affect the lawfulness of the processing before its withdrawal nor, when applicable law allows, will it affect the processing of your personal information conducted in reliance on lawful processing grounds other than consent.
 
 ### Opting out of marketing and promotional communications
 
-You can unsubscribe from our marketing and promotional communications at any time by clicking on the unsubscribe link in the emails that we send, or by contacting us using the details provided in the section "[How can you contact us about this notice?](<README (1).md#13.-how-can-you-contact-us-about-this-notice>)" below. You will then be removed from the marketing lists. However, we may still communicate with you — for example, to send you service-related messages that are necessary for the administration and use of your account, to respond to service requests, or for other non-marketing purposes.&#x20;
+You can unsubscribe from our marketing and promotional communications at any time by clicking on the unsubscribe link in the emails that we send, or by contacting us using the details provided in the section "[How can you contact us about this notice?](privacy-policy.md#13.-how-can-you-contact-us-about-this-notice)" below. You will then be removed from the marketing lists. However, we may still communicate with you — for example, to send you service-related messages that are necessary for the administration and use of your account, to respond to service requests, or for other non-marketing purposes.&#x20;
 
 ### Cookies and similar technologies
 
@@ -225,11 +225,11 @@ We may also collect other personal information outside of these categories throu
 
 **How do we use and share your personal information?**
 
-Learn about how we use your personal information in the section, "[How do we process your information?](<README (1).md#2.-how-do-we-process-your-information>)"
+Learn about how we use your personal information in the section, "[How do we process your information?](privacy-policy.md#2.-how-do-we-process-your-information)"
 
 **Will your information be shared with anyone else?**
 
-We may disclose your personal information with our service providers pursuant to a written contract between us and each service provider. Learn more about how we disclose personal information to in the section, "[When and with whom do we share your information?](<README (1).md#4.-when-and-with-whom-do-we-share-your-information>)"
+We may disclose your personal information with our service providers pursuant to a written contract between us and each service provider. Learn more about how we disclose personal information to in the section, "[When and with whom do we share your information?](privacy-policy.md#4.-when-and-with-whom-do-we-share-your-information)"
 
 We may use your personal information for our own business purposes, such as for undertaking internal research for technological development and demonstration. This is not considered to be "selling" of your personal information.
 
