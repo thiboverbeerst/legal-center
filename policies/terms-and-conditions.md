@@ -13,11 +13,11 @@ description: >-
 
 ## Agreement to our legal terms
 
-We are Thibo Verbeerst, also doing business as Nerdclub ("**Company**," "**we**," "**us**," "**our**"), a company registered in Belgium at Haandeput 11, Meulebeke 8760.
+We are Thibo Verbeerst ("**we**," "**us**," "**our**"), an individual registered in Belgium at Haandeput 11, Meulebeke 8760.
 
 We operate the website [https://www.thiboverbeerst.com](https://www.thiboverbeerst.com) (the "**Site**"), as well as any other related products and services that refer or link to these legal terms (the "**Legal Terms**") (collectively, the "**Services**").
 
-Thibo Verbeerst is a freelance information technology business providing to guide businesses and individuals toward tech success through strategic advice and custom solutions.
+Thibo Verbeerst is an IT Professional, interested in guiding businesses and individuals toward tech success through strategic advice and custom solutions.
 
 You can contact us by email at [legal@thiboverbeerst.com](mailto:legal@thiboverbeerst.com) or by mail to Haandeput 11, Meulebeke 8760, Belgium.
 
