@@ -13,7 +13,7 @@ Please carefully review this Policy which applies to any and all:
 
 ## Who we are
 
-We are Thibo Verbeerst ("**we**," "**us**," or "**our**") an individual registered in Belgium at Haandeput 11, Meulebeke 8760. We operate the website [http://www.thiboverbeerst.com](http://www.thiboverbeerst.com) (the "**Site**"), as well as any other related products and services that refer or link to this Policy (collectively, the "**Services**").
+We are Thibo Verbeerst ("**we**," "**us**," or "**our**") an individual registered in Belgium. We operate the website [http://www.thiboverbeerst.com](http://www.thiboverbeerst.com) (the "**Site**"), as well as any other related products and services that refer or link to this Policy (collectively, the "**Services**").
 
 ## Use of the services
 
