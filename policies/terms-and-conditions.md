@@ -13,7 +13,7 @@ description: >-
 
 ## Agreement to our legal terms
 
-We are Thibo Verbeerst ("**we**," "**us**," "**our**"), an individual registered in Belgium at Haandeput 11, Meulebeke 8760.
+We are Thibo Verbeerst ("**we**," "**us**," "**our**"), an individual registered in Belgium.
 
 We operate the website [https://www.thiboverbeerst.com](https://www.thiboverbeerst.com) (the "**Site**"), as well as any other related products and services that refer or link to these legal terms (the "**Legal Terms**") (collectively, the "**Services**").
 
@@ -199,10 +199,5 @@ These Legal Terms and any policies or operating rules posted by us on the Servic
 
 ## 22. Contact Us
 
-In order to resolve a complaint regarding the Services or to receive further information regarding use of the Services, please contact us at:
-
-**Thibo Verbeerst**\
-**Haandeput 11**\
-**Meulebeke 8760**\
-**Belgium**\
+In order to resolve a complaint regarding the Services or to receive further information regarding use of the Services, please contact us at:\
 [legal@thiboverbeerst.com](mailto:legal@thiboverbeerst.com)

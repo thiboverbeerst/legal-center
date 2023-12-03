@@ -386,12 +386,7 @@ We may update this privacy notice from time to time. The updated version will be
 
 ## 13. How can you contact us about this notice?
 
-If you have questions or comments about this notice, you may email us at [legal@thiboverbeerst.com](mailto:legal@thiboverbeerst.com) or contact us by post at:
-
-Thibo Verbeerst\
-Haandeput 11\
-Meulebeke 8760\
-Belgium
+If you have questions or comments about this notice, you may email us at [legal@thiboverbeerst.com](mailto:legal@thiboverbeerst.com)
 
 ## 14. How can you review, update, or delete the data we collect from you?
 

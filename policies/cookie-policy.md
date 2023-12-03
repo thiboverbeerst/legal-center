@@ -214,9 +214,4 @@ The 'Last modified" line at the footer of this Cookie Policy indicates when it w
 
 ## Where can I get further information?
 
-If you have any questions about our use of cookies or other technologies, please email us at [legal@thiboverbeerst.com](mailto:legal@thiboverbeerst.com) or by post to:
-
-Thibo Verbeerst \
-Haandeput 11 \
-Meulebeke 8760 \
-Belgium
+If you have any questions about our use of cookies or other technologies, please email us at [legal@thiboverbeerst.com](mailto:legal@thiboverbeerst.com)
