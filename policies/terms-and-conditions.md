@@ -145,7 +145,7 @@ We cannot guarantee the Services will be available at all times. We may experien
 
 ## 12. Governing Law
 
-These Legal Terms are governed by and interpreted following the laws of Belgium, and the use of the United Nations Convention of Contracts for the International Sales of Goods is expressly excluded. If your habitual residence is in the EU, and you are a consumer, you additionally possess the protection provided to you by obligatory provisions of the law in your country to residence. Thibo Verbeerst and yourself both agree to submit to the non-exclusive jurisdiction of the courts of Flanders, which means that you may make a claim to defend your consumer protection rights in regards to these Legal Terms in Belgium, or in the EU country in which you reside.
+These Legal Terms are governed by and interpreted following the laws of Belgium, and the use of the United Nations Convention of Contracts for the International Sales of Goods is expressly excluded. If your habitual residence is in the EU, and you are a consumer, you additionally possess the protection provided to you by obligatory provisions of the law in your country to residence. Verbeerst Digital and yourself both agree to submit to the non-exclusive jurisdiction of the courts of Flanders, which means that you may make a claim to defend your consumer protection rights in regards to these Legal Terms in Belgium, or in the EU country in which you reside.
 
 ## 13. Dispute Resolution
 
