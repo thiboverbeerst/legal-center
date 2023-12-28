@@ -13,15 +13,15 @@ description: >-
 
 ## Agreement to our legal terms
 
-We are Thibo Verbeerst ("**we**," "**us**," "**our**"), an individual registered in Belgium.
+We are Verbeerst Digital ("**we**," "**us**," "**our**"), a company registered in Belgium.
 
 We operate the website [https://www.thiboverbeerst.com](https://www.thiboverbeerst.com) (the "**Site**"), as well as any other related products and services that refer or link to these legal terms (the "**Legal Terms**") (collectively, the "**Services**").
 
-Thibo Verbeerst is an IT Professional, interested in guiding businesses and individuals toward tech success through strategic advice and custom solutions.
+Verbeerst Digital is an Digital Services company, interested in guiding businesses and individuals toward tech success through strategic advice and custom solutions.
 
 You can contact us by email at [legal@thiboverbeerst.com](mailto:legal@thiboverbeerst.com).
 
-These Legal Terms constitute a legally binding agreement made between you, whether personally or on behalf of an entity ("**you**"), and Thibo Verbeerst, concerning your access to and use of the Services. You agree that by accessing the Services, you have read, understood, and agreed to be bound by all of these Legal Terms. IF YOU DO NOT AGREE WITH ALL OF THESE LEGAL TERMS, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE SERVICES AND YOU MUST DISCONTINUE USE IMMEDIATELY.
+These Legal Terms constitute a legally binding agreement made between you, whether personally or on behalf of an entity ("**you**"), and Verbeerst Digital, concerning your access to and use of the Services. You agree that by accessing the Services, you have read, understood, and agreed to be bound by all of these Legal Terms. IF YOU DO NOT AGREE WITH ALL OF THESE LEGAL TERMS, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE SERVICES AND YOU MUST DISCONTINUE USE IMMEDIATELY.
 
 Supplemental terms and conditions or documents that may be posted on the Services from time to time are hereby expressly incorporated herein by reference. We reserve the right, in our sole discretion, to make changes or modifications to these Legal Terms from time to time. We will alert you about any changes by updating the "Last modified" date of these Legal Terms, and you waive any right to receive specific notice of each such change. It is your responsibility to periodically review these Legal Terms to stay informed of updates. You will be subject to, and will be deemed to have been made aware of and to have accepted, the changes in any revised Legal Terms by your continued use of the Services after the date such revised Legal Terms are posted.
 
