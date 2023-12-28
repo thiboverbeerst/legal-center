@@ -32,4 +32,4 @@ layout:
 
 ## Contact Us
 
-If you have any questions, concerns, or comments about our Legal Center or any of the documents or pages it contains, we're here to help. Please feel free to reach out to us at [legal@thiboverbeerst.com](mailto:legal@thiboverbeerst.com). We take your inquiries seriously and will do our best to respond as promptly as possible.
+If you have any questions, concerns, or comments about our Legal Center or any of the documents or pages it contains, we're here to help. Please feel free to reach out to us at [legal@verbeerst.com](mailto:legal@verbeerst.com). We take your inquiries seriously and will do our best to respond as promptly as possible.
