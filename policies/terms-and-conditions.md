@@ -15,7 +15,7 @@ description: >-
 
 We are Verbeerst Digital ("**we**," "**us**," "**our**"), a company registered in Belgium.
 
-We operate the website [https://www.thiboverbeerst.com](https://www.thiboverbeerst.com) (the "**Site**"), as well as any other related products and services that refer or link to these legal terms (the "**Legal Terms**") (collectively, the "**Services**").
+We operate the website [https://www.verbeerst.com](https://www.verbeerst.com) (the "**Site**"), as well as any other related products and services that refer or link to these legal terms (the "**Legal Terms**") (collectively, the "**Services**").
 
 Verbeerst Digital is an Digital Services company, interested in guiding businesses and individuals toward tech success through strategic advice and custom solutions.
 
