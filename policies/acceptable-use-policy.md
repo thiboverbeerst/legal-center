@@ -13,7 +13,11 @@ Please carefully review this Policy which applies to any and all:
 
 ## Who I am
 
-I am Thibo Verbeerst ("**I**," "**me**," or "**my**") an individual registered in Belgium. I operate the website [https://www.thiboverbeerst.com](https://www.thiboverbeerst.com) (the "**Site**"), as well as any other related products and services that refer or link to this Policy (collectively, the "**Services**").
+I am Thibo Verbeerst ("**I**," "**me**," "**my**"), an individual registered in Belgium. I operate the following sites and services, which together with any related products, are collectively referred to as the "**Services**":
+
+* [https://www.thiboverbeerst.com](https://www.thiboverbeerst.com/);
+* [https://www.thiboverbeerst.cloud](https://www.thiboverbeerst.cloud/);
+* Any other website of mine that links to this Policy.
 
 ## Use of the services
 
@@ -56,4 +60,3 @@ I exclude my liability for all action I may take in response to any of your brea
 If you have any further questions or comments, you may contact me by:
 
 * Email: [legal@thiboverbeerst.com](mailto:legal@thiboverbeerst.com)
-

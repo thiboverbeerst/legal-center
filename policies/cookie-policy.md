@@ -11,7 +11,13 @@ description: >-
 
 ***
 
-This Cookie Policy explains how Thibo Verbeerst ("**I**," "**me**," and "**my**"), uses cookies and similar technologies to recognize you when you visit my website at  [https://www.thiboverbeerst.com](https://www.thiboverbeerst.com) ("**Website**"). It explains what these technologies are and why I use them, as well as your rights to control my use of them.
+This Cookie Policy explains how Thibo Verbeerst ("**I**," "**me**," and "**my**"), uses cookies and similar technologies to recognize you when you use my websites ("**Websites**"), such as when you:
+
+* Visit my website at [https://www.thiboverbeerst.com](https://www.thiboverbeerst.com);
+* Visit my website at [https://www.thiboverbeerst.cloud](https://www.thiboverbeerst.cloud/);
+* Visit any other website of mine that links to this Policy;
+
+This Cookie Policy explains what these technologies are and why I use them, as well as your rights to control my use of them.
 
 The cookie banner ("**Cookie Banner**") refers to the notification that appears at the bottom (or top) of your screen when you first visit my website. See the image below for reference.
 
@@ -27,7 +33,7 @@ Cookies set by the website owner (in this case, Thibo Verbeerst) are called "fir
 
 ## Why do I use cookies?
 
-I use first- and third-party cookies for several reasons. Some cookies are required for technical reasons in order for my Website to operate, and I refer to these as "essential" or "strictly necessary" cookies. Other cookies also enable me to track and target the interests of my users to enhance the experience on my Online Properties. Third parties serve cookies through my Website for advertising, analytics, and other purposes. This is described in more detail below.
+I use first- and third-party cookies for several reasons. Some cookies are required for technical reasons in order for my Websites to operate, and I refer to these as "essential" or "strictly necessary" cookies. Other cookies also enable me to track and target the interests of my users to enhance the experience on my Online Properties. Third parties serve cookies through my Websites for advertising, analytics, and other purposes. This is described in more detail below.
 
 ## How can I control cookies?
 
@@ -35,11 +41,11 @@ You have the opportunity to manage your cookie preferences when the Cookie Banne
 
 Once you have submitted your preferences in the Cookie Banner, you will not be able to change them through the website. If you wish to modify your cookie settings, you will need to delete all cookies from your web browser and reload the page, at which point the Cookie Banner will be displayed again.
 
-The specific types of first- and third-party cookies served through my Website and the purposes they perform are described in the table below (please note that the specific cookies served may vary depending on the specific Online Properties you visit):
+The specific types of first- and third-party cookies served through my Websites and the purposes they perform are described in the table below (please note that the specific cookies served may vary depending on the specific Online Properties you visit):
 
 ### Essential website cookies
 
-These cookies are strictly necessary to provide you with services available through my Website and to use some of its features, such as access to secure areas.
+These cookies are strictly necessary to provide you with services available through my Websites and to use some of its features, such as access to secure areas.
 
 <details>
 
@@ -99,7 +105,7 @@ These cookies are strictly necessary to provide you with services available thro
 
 ### Performance and functionality cookies
 
-These cookies are used to enhance the performance and functionality of my Website but are non-essential to their use. However, without these cookies, certain functionality (like videos) may become unavailable.
+These cookies are used to enhance the performance and functionality of my Websites but are non-essential to their use. However, without these cookies, certain functionality (like videos) may become unavailable.
 
 <details>
 
@@ -117,7 +123,7 @@ These cookies are used to enhance the performance and functionality of my Websit
 
 ### Analytics and customization cookies
 
-These cookies collect information that is used either in aggregate form to help me understand how my Website is being used or how effective my marketing campaigns are, or to help me customize my Website for you.
+These cookies collect information that is used either in aggregate form to help me understand how my Websites are being used or how effective my marketing campaigns are, or to help me customize my Websites for you.
 
 <details>
 
@@ -194,7 +200,7 @@ In addition, most advertising networks offer you a way to opt out of targeted ad
 
 ## What about other tracking technologies, like web beacons?
 
-Cookies are not the only way to recognize or track visitors to a website. I may use other, similar technologies from time to time, like web beacons (sometimes called "tracking pixels" or "clear gifs"). These are tiny graphics files that contain a unique identifier that enables me to recognize when someone has visited my Website or opened an email including them. This allows me, for example, to monitor the traffic patterns of users from one page within a website to another, to deliver or communicate with cookies, to understand whether you have come to the website from an online advertisement displayed on a third-party website, to improve site performance, and to measure the success of email marketing campaigns. In many instances, these technologies are reliant on cookies to function properly, and so declining cookies will impair their functioning.
+Cookies are not the only way to recognize or track visitors to a website. I may use other, similar technologies from time to time, like web beacons (sometimes called "tracking pixels" or "clear gifs"). These are tiny graphics files that contain a unique identifier that enables me to recognize when someone has visited my Websites or opened an email including them. This allows me, for example, to monitor the traffic patterns of users from one page within a website to another, to deliver or communicate with cookies, to understand whether you have come to the website from an online advertisement displayed on a third-party website, to improve site performance, and to measure the success of email marketing campaigns. In many instances, these technologies are reliant on cookies to function properly, and so declining cookies will impair their functioning.
 
 ## Do you use Flash cookies or Local Shared Objects?
 
@@ -204,7 +210,7 @@ If you do not want Flash Cookies stored on your computer, you can adjust the set
 
 ## Do you serve targeted advertising?
 
-Third parties may serve cookies on your computer or mobile device to serve advertising through my Website. These companies may use information about your visits to this and other websites in order to provide relevant advertisements about goods and services that you may be interested in. They may also employ technology that is used to measure the effectiveness of advertisements. They can accomplish this by using cookies or web beacons to collect information about your visits to this and other sites in order to provide relevant advertisements about goods and services of potential interest to you. The information collected through this process does not enable me or them to identify your name, contact details, or other details that directly identify you unless you choose to provide these.
+Third parties may serve cookies on your computer or mobile device to serve advertising through my Websites. These companies may use information about your visits to this and other websites in order to provide relevant advertisements about goods and services that you may be interested in. They may also employ technology that is used to measure the effectiveness of advertisements. They can accomplish this by using cookies or web beacons to collect information about your visits to this and other sites in order to provide relevant advertisements about goods and services of potential interest to you. The information collected through this process does not enable me or them to identify your name, contact details, or other details that directly identify you unless you choose to provide these.
 
 ## How often will you update this Cookie Policy?
 

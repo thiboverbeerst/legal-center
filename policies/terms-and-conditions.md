@@ -1,8 +1,8 @@
 ---
 description: >-
-  Before using my services, take a moment to read my Terms and Conditions.
-  This document outlines the rules, terms, and guidelines you need to follow to
-  use my website and services.
+  Before using my services, take a moment to read my Terms and Conditions. This
+  document outlines the rules, terms, and guidelines you need to follow to use
+  my website and services.
 ---
 
 # Terms and Conditions
@@ -15,7 +15,11 @@ description: >-
 
 I am Thibo Verbeerst ("**I**," "**me**," "**my**"), an individual registered in Belgium.
 
-I operate the website [https://www.thiboverbeerst.com](https://www.thiboverbeerst.com) (the "**Site**"), as well as any other related products and services that refer or link to these legal terms (the "**Legal Terms**") (collectively, the "**Services**").
+I operate the following websites and services, which are collectively known as the "**Services**":
+
+* [https://www.thiboverbeerst.com](https://www.thiboverbeerst.com/);
+* [https://www.thiboverbeerst.cloud](https://www.thiboverbeerst.cloud/);
+* Any related products that refer or link to these legal terms (the "**Legal Terms**").
 
 Thibo Verbeerst is an IT Professional, interested in guiding businesses and individuals toward tech success through strategic advice and custom solutions.
 
@@ -121,7 +125,7 @@ I do not assert any ownership over your Contributions. You retain full ownership
 
 ## 7. Third-Party websites and content
 
-The Services may contain (or you may be sent via the Site) links to other websites ("Third-Party Websites") as well as articles, photographs, text, graphics, pictures, designs, music, sound, video, information, applications, software, and other content or items belonging to or originating from third parties ("Third-Party Content"). Such Third-Party Websites and Third-Party Content are not investigated, monitored, or checked for accuracy, appropriateness, or completeness by me, and I am not responsible for any Third-Party Websites accessed through the Services or any Third-Party Content posted on, available through, or installed from the Services, including the content, accuracy, offensiveness, opinions, reliability, privacy practices, or other policies of or contained in the Third-Party Websites or the Third-Party Content. Inclusion of, linking to, or permitting the use or installation of any Third-Party Websites or any Third-Party Content does not imply approval or endorsement thereof by me. If you decide to leave the Services and access the Third-Party Websites or to use or install any Third-Party Content, you do so at your own risk, and you should be aware these Legal Terms no longer govern. You should review the applicable terms and policies, including privacy and data gathering practices, of any website to which you navigate from the Services or relating to any applications you use or install from the Services. Any purchases you make through Third-Party Websites will be through other websites and from other companies, and I take no responsibility whatsoever in relation to such purchases which are exclusively between you and the applicable third party. You agree and acknowledge that I do not endorse the products or services offered on Third-Party Websites and you shall hold me blameless from any harm caused by your purchase of such products or services. Additionally, you shall hold me blameless from any losses sustained by you or harm caused to you relating to or resulting in any way from any Third-Party Content or any contact with Third-Party Websites.
+The Services may contain links to other websites ("Third-Party Websites") as well as articles, photographs, text, graphics, pictures, designs, music, sound, video, information, applications, software, and other content or items belonging to or originating from third parties ("Third-Party Content"). Such Third-Party Websites and Third-Party Content are not investigated, monitored, or checked for accuracy, appropriateness, or completeness by me, and I am not responsible for any Third-Party Websites accessed through the Services or any Third-Party Content posted on, available through, or installed from the Services, including the content, accuracy, offensiveness, opinions, reliability, privacy practices, or other policies of or contained in the Third-Party Websites or the Third-Party Content. Inclusion of, linking to, or permitting the use or installation of any Third-Party Websites or any Third-Party Content does not imply approval or endorsement thereof by me. If you decide to leave the Services and access the Third-Party Websites or to use or install any Third-Party Content, you do so at your own risk, and you should be aware these Legal Terms no longer govern. You should review the applicable terms and policies, including privacy and data gathering practices, of any website to which you navigate from the Services or relating to any applications you use or install from the Services. Any purchases you make through Third-Party Websites will be through other websites and from other companies, and I take no responsibility whatsoever in relation to such purchases which are exclusively between you and the applicable third party. You agree and acknowledge that I do not endorse the products or services offered on Third-Party Websites and you shall hold me blameless from any harm caused by your purchase of such products or services. Additionally, you shall hold me blameless from any losses sustained by you or harm caused to you relating to or resulting in any way from any Third-Party Content or any contact with Third-Party Websites.
 
 ## 8. Services Management
 

@@ -13,8 +13,10 @@ description: >-
 
 This privacy notice for Thibo Verbeerst ("**I**," "**me**," or "**my**"), describes how and why I might collect, store, use, and/or share ("**process**") your information when you use my services ("**Services**"), such as when you:
 
-* Visit my website at [https://www.thiboverbeerst.com](https://www.thiboverbeerst.com), or any website of mine that links to this privacy notice
-* Engage with me in other related ways, including any sales, marketing, or events
+* Visit my website at [https://www.thiboverbeerst.com](https://www.thiboverbeerst.com);
+* Visit my website at [https://www.thiboverbeerst.cloud](https://www.thiboverbeerst.cloud/);
+* Visit any other service of mine that links to this privacy notice;
+* Engage with me in other related ways, including any sales, marketing, or events.
 
 **Questions or concerns?** Reading this privacy notice will help you understand your privacy rights and choices. If you do not agree with my policies and practices, please do not use my Services. If you still have any questions or concerns, please contact me at [legal@thiboverbeerst.com](mailto:legal@thiboverbeerst.com).
 
@@ -188,7 +190,7 @@ However, please note that this will not affect the lawfulness of the processing 
 
 ### Opting out of marketing and promotional communications
 
-You can unsubscribe from my marketing and promotional communications at any time by clicking on the unsubscribe link in the emails that I send, or by contacting me using the details provided in the section "[How can you contact me about this notice?](privacy-policy.md#13.-how-can-you-contact-me-about-this-notice)" below. You will then be removed from the marketing lists. However, I may still communicate with you — for example, to send you service-related messages that are necessary for the administration and use of your account, to respond to service requests, or for other non-marketing purposes.&#x20;
+You can unsubscribe from my marketing and promotional communications at any time by clicking on the unsubscribe link in the emails that I send, or by contacting me using the details provided in the section "[How can you contact me about this notice?](privacy-policy.md#13.-how-can-you-contact-me-about-this-notice)" below. You will then be removed from the marketing lists. However, I may still communicate with you — for example, to send you service-related messages that are necessary for the administration and use of your account, to respond to service requests, or for other non-marketing purposes.
 
 ### Cookies and similar technologies
 
@@ -206,8 +208,7 @@ _**In Short:** If you are a resident of California, Colorado, Connecticut, Utah 
 
 **What categories of personal information do I collect?**
 
-I have collected the following categories of personal information in the past twelve (12) months:\
-
+I have collected the following categories of personal information in the past twelve (12) months:\\
 
 <table><thead><tr><th width="191">Category</th><th width="440.3333333333333">Examples</th><th width="113" data-type="select">Collected</th></tr></thead><tbody><tr><td>A. Identifiers</td><td>Contact details, such as real name, alias, postal address, telephone or mobile contact number, unique personal identifier, online identifier, Internet Protocol address, email address, and account name</td><td></td></tr><tr><td>B. Personal information as defined in the California Customer Records statute</td><td>Name, contact information, education, employment, employment history, and financial information</td><td></td></tr><tr><td>C. Protected classification characteristics under state or federal law</td><td>Gender and date of birth</td><td></td></tr><tr><td>D. Commercial information</td><td>Transaction information, purchase history, financial details, and payment information</td><td></td></tr><tr><td>E. Biometric information</td><td>Fingerprints and voiceprints</td><td></td></tr><tr><td>F. Internet or other similar network activity</td><td>Browsing history, search history, online behavior, interest data, and interactions with my and other websites, applications, systems, and advertisements</td><td></td></tr><tr><td>G. Geolocation data</td><td>Device location</td><td></td></tr><tr><td>H. Audio, electronic, visual, thermal, olfactory, or similar information</td><td>Images and audio, video or call recordings created in connection with my business activities</td><td></td></tr><tr><td>I. Professional or employment-related information</td><td>Business contact details in order to provide you my Services at a business level or job title, work history, and professional qualifications if you apply for a job with me</td><td></td></tr><tr><td>J. Education Information</td><td>Student records and directory information</td><td></td></tr><tr><td>K. Inferences drawn from collected personal information</td><td>Inferences drawn from any of the collected personal information listed above to create a profile or summary about, for example, an individual’s preferences and characteristics</td><td></td></tr><tr><td>L. Sensitive personal Information</td><td></td><td></td></tr></tbody></table>
 
@@ -310,7 +311,7 @@ This section applies only to Colorado residents. Under the Colorado Privacy Act 
 * Right to obtain a copy of the personal data you previously shared with me
 * Right to opt out of the processing of your personal data if it is used for targeted advertising, the sale of personal data, or profiling in furtherance of decisions that produce legal or similarly significant effects ("profiling")
 
-To submit a request to exercise these rights described above, please email  [legal@thiboverbeerst.com](mailto:legal@thiboverbeerst.com).
+To submit a request to exercise these rights described above, please email [legal@thiboverbeerst.com](mailto:legal@thiboverbeerst.com).
 
 If I decline to take action regarding your request and you wish to appeal my decision, please email me at [legal@thiboverbeerst.com](mailto:legal@thiboverbeerst.com). Within forty-five (45) days of receipt of an appeal, I will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions.
 
@@ -325,7 +326,7 @@ This section applies only to Connecticut residents. Under the Connecticut Data P
 * Right to obtain a copy of the personal data you previously shared with me
 * Right to opt out of the processing of your personal data if it is used for targeted advertising, the sale of personal data, or profiling in furtherance of decisions that produce legal or similarly significant effects ("profiling")
 
-To submit a request to exercise these rights described above, please email  [legal@thiboverbeerst.com](mailto:legal@thiboverbeerst.com).
+To submit a request to exercise these rights described above, please email [legal@thiboverbeerst.com](mailto:legal@thiboverbeerst.com).
 
 If I decline to take action regarding your request and you wish to appeal my decision, please email me at [legal@thiboverbeerst.com](mailto:legal@thiboverbeerst.com). Within sixty (60) days of receipt of an appeal, I will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions.
 
@@ -339,7 +340,7 @@ This section applies only to Utah residents. Under the Utah Consumer Privacy Act
 * Right to obtain a copy of the personal data you previously shared with me
 * Right to opt out of the processing of your personal data if it is used for targeted advertising or the sale of personal data
 
-To submit a request to exercise these rights described above, please email  [legal@thiboverbeerst.com](mailto:legal@thiboverbeerst.com).
+To submit a request to exercise these rights described above, please email [legal@thiboverbeerst.com](mailto:legal@thiboverbeerst.com).
 
 ### Virginia Residents
 
