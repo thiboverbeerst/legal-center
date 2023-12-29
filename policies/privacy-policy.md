@@ -13,7 +13,7 @@ description: >-
 
 This privacy notice for Thibo Verbeerst ("**I**," "**me**," or "**my**"), describes how and why I might collect, store, use, and/or share ("**process**") your information when you use my services ("**Services**"), such as when you:
 
-* Visit my website at [http://www.thiboverbeerst.com](http://www.thiboverbeerst.com), or any website of mine that links to this privacy notice
+* Visit my website at [https://www.thiboverbeerst.com](https://www.thiboverbeerst.com), or any website of mine that links to this privacy notice
 * Engage with me in other related ways, including any sales, marketing, or events
 
 **Questions or concerns?** Reading this privacy notice will help you understand your privacy rights and choices. If you do not agree with my policies and practices, please do not use my Services. If you still have any questions or concerns, please contact me at [legal@thiboverbeerst.com](mailto:legal@thiboverbeerst.com).
@@ -137,9 +137,9 @@ _**In Short:** I may share information in specific situations described in this 
 
 I may need to share your personal information in the following situations:
 
-* **Business Transfers.** I may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of my business to another company.
+* **Business Transfers.** I may share or transfer your information in connection with, or during negotiations of, any merger, sale of my assets or financing to another company.
 * **When I use Google Maps Platform APIs.** I may share your information with certain Google Maps Platform APIs (e.g., Google Maps API, Places API). I obtain and store on your device ("cache") your location. You may revoke your consent anytime by contacting me at the contact details provided at the end of this document.
-* **Affiliates.** I may share your information with my affiliates, in which case I will require those affiliates to honor this privacy notice. Affiliates include my parent company and any subsidiaries, joint venture partners, or other companies that I control or that are under common control with me.
+* **Affiliates.** I may share your information with my affiliates, in which case I will require those affiliates to honor this privacy notice. Affiliates include my company and any subsidiaries, joint venture partners, or other companies that I control or that are under common control with me.
 * **Business Partners.** I may share your information with my business partners to offer you certain products, services, or promotions.
 
 ## 5. Do I use cookies and other tracking technologies?

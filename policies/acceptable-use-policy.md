@@ -13,7 +13,7 @@ Please carefully review this Policy which applies to any and all:
 
 ## Who I am
 
-I am Thibo Verbeerst ("**I**," "**me**," or "**my**") an individual registered in Belgium. I operate the website [http://www.thiboverbeerst.com](http://www.thiboverbeerst.com) (the "**Site**"), as well as any other related products and services that refer or link to this Policy (collectively, the "**Services**").
+I am Thibo Verbeerst ("**I**," "**me**," or "**my**") an individual registered in Belgium. I operate the website [https://www.thiboverbeerst.com](https://www.thiboverbeerst.com) (the "**Site**"), as well as any other related products and services that refer or link to this Policy (collectively, the "**Services**").
 
 ## Use of the services
 

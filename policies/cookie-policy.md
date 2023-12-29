@@ -11,7 +11,7 @@ description: >-
 
 ***
 
-This Cookie Policy explains how Thibo Verbeerst ("**I**," "**me**," and "**my**"), uses cookies and similar technologies to recognize you when you visit my website at  [http://www.thiboverbeerst.com](http://www.thiboverbeerst.com) ("**Website**"). It explains what these technologies are and why I use them, as well as your rights to control my use of them.
+This Cookie Policy explains how Thibo Verbeerst ("**I**," "**me**," and "**my**"), uses cookies and similar technologies to recognize you when you visit my website at  [https://www.thiboverbeerst.com](https://www.thiboverbeerst.com) ("**Website**"). It explains what these technologies are and why I use them, as well as your rights to control my use of them.
 
 The cookie banner ("**Cookie Banner**") refers to the notification that appears at the bottom (or top) of your screen when you first visit my website. See the image below for reference.
 
@@ -188,9 +188,9 @@ As the means by which you can refuse cookies through your web browser controls v
 
 In addition, most advertising networks offer you a way to opt out of targeted advertising. If you would like to find out more information, please visit:
 
-* [Digital Advertising Alliance](http://www.aboutads.info/choices/)
+* [Digital Advertising Alliance](https://www.aboutads.info/choices/)
 * [Digital Advertising Alliance of Canada](https://youradchoices.ca/)
-* [European Interactive Digital Advertising Alliance](http://www.youronlinechoices.com/)
+* [European Interactive Digital Advertising Alliance](https://www.youronlinechoices.com/)
 
 ## What about other tracking technologies, like web beacons?
 
@@ -200,7 +200,7 @@ Cookies are not the only way to recognize or track visitors to a website. I may 
 
 Websites may also use so-called "Flash Cookies" (also known as Local Shared Objects or "LSOs") to, among other things, collect and store information about your use of my services, fraud prevention, and for other site operations.
 
-If you do not want Flash Cookies stored on your computer, you can adjust the settings of your Flash player to block Flash Cookies storage using the tools contained in the [Website Storage Settings Panel](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings\_manager07.html). You can also control Flash Cookies by going to the [Global Storage Settings Panel](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings\_manager03.html) and following the instructions (which may include instructions that explain, for example, how to delete existing Flash Cookies (referred to "information" on the Macromedia site), how to prevent Flash LSOs from being placed on your computer without your being asked, and (for Flash Player 8 and later) how to block Flash Cookies that are not being delivered by the operator of the page you are on at the time).
+If you do not want Flash Cookies stored on your computer, you can adjust the settings of your Flash player to block Flash Cookies storage using the tools contained in the [Website Storage Settings Panel](https://www.macromedia.com/support/documentation/en/flashplayer/help/settings\_manager07.html). You can also control Flash Cookies by going to the [Global Storage Settings Panel](https://www.macromedia.com/support/documentation/en/flashplayer/help/settings\_manager03.html) and following the instructions (which may include instructions that explain, for example, how to delete existing Flash Cookies (referred to "information" on the Macromedia site), how to prevent Flash LSOs from being placed on your computer without your being asked, and (for Flash Player 8 and later) how to block Flash Cookies that are not being delivered by the operator of the page you are on at the time).
 
 ## Do you serve targeted advertising?
 
