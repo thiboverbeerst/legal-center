@@ -13,7 +13,7 @@ Please carefully review this Policy which applies to any and all:
 
 ## Who we are
 
-We are Verbeerst Digital ("**we**," "**us**," or "**our**") a company registered in Belgium. We operate the website [https://www.verbeerst.com](https://www.verbeerst.com) (the "**Site**"), as well as any other related products and services that refer or link to this Policy (collectively, the "**Services**").
+We are Thibo Verbeerst ("**we**," "**us**," or "**our**") an individual registered in Belgium. We operate the website [http://www.thiboverbeerst.com](http://www.thiboverbeerst.com) (the "**Site**"), as well as any other related products and services that refer or link to this Policy (collectively, the "**Services**").
 
 ## Use of the services
 
@@ -55,5 +55,5 @@ We exclude our liability for all action we may take in response to any of your b
 
 If you have any further questions or comments, you may contact us by:
 
-* Email: [legal@verbeerst.com](mailto:legal@verbeerst.com)
+* Email: [legal@thiboverbeerst.com](mailto:legal@thiboverbeerst.com)
 

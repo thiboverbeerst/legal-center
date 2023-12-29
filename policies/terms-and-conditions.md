@@ -13,15 +13,15 @@ description: >-
 
 ## Agreement to our legal terms
 
-We are Verbeerst Digital ("**we**," "**us**," "**our**"), a company registered in Belgium.
+We are Thibo Verbeerst ("**we**," "**us**," "**our**"), an individual registered in Belgium.
 
-We operate the website [https://www.verbeerst.com](https://www.verbeerst.com) (the "**Site**"), as well as any other related products and services that refer or link to these legal terms (the "**Legal Terms**") (collectively, the "**Services**").
+We operate the website [https://www.thiboverbeerst.com](https://www.thiboverbeerst.com) (the "**Site**"), as well as any other related products and services that refer or link to these legal terms (the "**Legal Terms**") (collectively, the "**Services**").
 
-Verbeerst Digital is an Digital Services company, interested in guiding businesses and individuals toward tech success through strategic advice and custom solutions.
+Thibo Verbeerst is an IT Professional, interested in guiding businesses and individuals toward tech success through strategic advice and custom solutions.
 
-You can contact us by email at [legal@verbeerst.com](mailto:legal@verbeerst.com).
+You can contact us by email at [legal@thiboverbeerst.com](mailto:legal@thiboverbeerst.com).
 
-These Legal Terms constitute a legally binding agreement made between you, whether personally or on behalf of an entity ("**you**"), and Verbeerst Digital, concerning your access to and use of the Services. You agree that by accessing the Services, you have read, understood, and agreed to be bound by all of these Legal Terms. IF YOU DO NOT AGREE WITH ALL OF THESE LEGAL TERMS, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE SERVICES AND YOU MUST DISCONTINUE USE IMMEDIATELY.
+These Legal Terms constitute a legally binding agreement made between you, whether personally or on behalf of an entity ("**you**"), and Thibo Verbeerst, concerning your access to and use of the Services. You agree that by accessing the Services, you have read, understood, and agreed to be bound by all of these Legal Terms. IF YOU DO NOT AGREE WITH ALL OF THESE LEGAL TERMS, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE SERVICES AND YOU MUST DISCONTINUE USE IMMEDIATELY.
 
 Supplemental terms and conditions or documents that may be posted on the Services from time to time are hereby expressly incorporated herein by reference. We reserve the right, in our sole discretion, to make changes or modifications to these Legal Terms from time to time. We will alert you about any changes by updating the "Last modified" date of these Legal Terms, and you waive any right to receive specific notice of each such change. It is your responsibility to periodically review these Legal Terms to stay informed of updates. You will be subject to, and will be deemed to have been made aware of and to have accepted, the changes in any revised Legal Terms by your continued use of the Services after the date such revised Legal Terms are posted.
 
@@ -56,7 +56,7 @@ solely for your personal, non-commercial use or internal business purpose.
 
 Except as set out in this section or elsewhere in our Legal Terms, no part of the Services and no Content or Marks may be copied, reproduced, aggregated, republished, uploaded, posted, publicly displayed, encoded, translated, transmitted, distributed, sold, licensed, or otherwise exploited for any commercial purpose whatsoever, without our express prior written permission.
 
-If you wish to make any use of the Services, Content, or Marks other than as set out in this section or elsewhere in our Legal Terms, please address your request to: [legal@verbeerst.com](mailto:legal@verbeerst.com). If we ever grant you the permission to post, reproduce, or publicly display any part of our Services or Content, you must identify us as the owners or licensors of the Services, Content, or Marks and ensure that any copyright or proprietary notice appears or is visible on posting, reproducing, or displaying our Content.
+If you wish to make any use of the Services, Content, or Marks other than as set out in this section or elsewhere in our Legal Terms, please address your request to: [legal@thiboverbeerst.com](mailto:legal@thiboverbeerst.com). If we ever grant you the permission to post, reproduce, or publicly display any part of our Services or Content, you must identify us as the owners or licensors of the Services, Content, or Marks and ensure that any copyright or proprietary notice appears or is visible on posting, reproducing, or displaying our Content.
 
 We reserve all rights not expressly granted to you in and to the Services, Content, and Marks.
 
@@ -145,7 +145,7 @@ We cannot guarantee the Services will be available at all times. We may experien
 
 ## 12. Governing Law
 
-These Legal Terms are governed by and interpreted following the laws of Belgium, and the use of the United Nations Convention of Contracts for the International Sales of Goods is expressly excluded. If your habitual residence is in the EU, and you are a consumer, you additionally possess the protection provided to you by obligatory provisions of the law in your country to residence. Verbeerst Digital and yourself both agree to submit to the non-exclusive jurisdiction of the courts of Flanders, which means that you may make a claim to defend your consumer protection rights in regards to these Legal Terms in Belgium, or in the EU country in which you reside.
+These Legal Terms are governed by and interpreted following the laws of Belgium, and the use of the United Nations Convention of Contracts for the International Sales of Goods is expressly excluded. If your habitual residence is in the EU, and you are a consumer, you additionally possess the protection provided to you by obligatory provisions of the law in your country to residence. Thibo Verbeerst and yourself both agree to submit to the non-exclusive jurisdiction of the courts of Flanders, which means that you may make a claim to defend your consumer protection rights in regards to these Legal Terms in Belgium, or in the EU country in which you reside.
 
 ## 13. Dispute Resolution
 
@@ -200,4 +200,4 @@ These Legal Terms and any policies or operating rules posted by us on the Servic
 ## 22. Contact Us
 
 In order to resolve a complaint regarding the Services or to receive further information regarding use of the Services, please contact us at:\
-[legal@verbeerst.com](mailto:legal@verbeerst.com)
+[legal@thiboverbeerst.com](mailto:legal@thiboverbeerst.com)

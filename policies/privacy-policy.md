@@ -1,8 +1,8 @@
 ---
 description: >-
-  Your privacy matters to us. Our Privacy Policy outlines how we collect, use,
-  and protect your personal information. Learn about your rights and how we
-  ensure your data is kept secure.
+  Your privacy matters to me. My Privacy Policy outlines how I collect, use, and
+  protect your personal information. Learn about your rights and how I ensure
+  your data is kept secure.
 ---
 
 # Privacy Policy
@@ -11,52 +11,52 @@ description: >-
 
 ***
 
-This privacy notice for Verbeerst Digital ("**we**," "**us**," or "**our**"), describes how and why we might collect, store, use, and/or share ("**process**") your information when you use our services ("**Services**"), such as when you:
+This privacy notice for Thibo Verbeerst ("**I**," "**me**," or "**my**"), describes how and why I might collect, store, use, and/or share ("**process**") your information when you use my services ("**Services**"), such as when you:
 
-* Visit our website at [https://www.verbeerst.com](https://www.verbeerst.com), or any website of ours that links to this privacy notice
-* Engage with us in other related ways, including any sales, marketing, or events
+* Visit my website at [http://www.thiboverbeerst.com](http://www.thiboverbeerst.com), or any website of mine that links to this privacy notice
+* Engage with me in other related ways, including any sales, marketing, or events
 
-**Questions or concerns?** Reading this privacy notice will help you understand your privacy rights and choices. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at [legal@verbeerst.com](mailto:legal@verbeerst.com).
+**Questions or concerns?** Reading this privacy notice will help you understand your privacy rights and choices. If you do not agree with my policies and practices, please do not use my Services. If you still have any questions or concerns, please contact me at [legal@thiboverbeerst.com](mailto:legal@thiboverbeerst.com).
 
 ## Summary of Key Points
 
-_**This summary provides key points from our privacy notice, but you can find out more details about any of these topics by clicking the link following each key point or by using our table of contents on the right to find the section you are looking for.**_
+_**This summary provides key points from my privacy notice, but you can find out more details about any of these topics by clicking the link following each key point or by using my table of contents on the right to find the section you are looking for.**_
 
-**What personal information do we process?** When you visit, use, or navigate our Services, we may process personal information depending on how you interact with us and the Services, the choices you make, and the products and features you use. Learn more about [personal information you disclose to us](privacy-policy.md#personal-information-you-disclose-to-us).
+**What personal information do I process?** When you visit, use, or navigate my Services, I may process personal information depending on how you interact with me and the Services, the choices you make, and the products and features you use. Learn more about [personal information you disclose to me](privacy-policy.md#personal-information-you-disclose-to-us).
 
-**Do we process any sensitive personal information?** We do not process sensitive personal information.
+**Do I process any sensitive personal information?** I do not process sensitive personal information.
 
-**Do we receive any information from third parties?** We do not receive any information from third parties.
+**Do I receive any information from third parties?** I do not receive any information from third parties.
 
-**How do we process your information?** We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent. We process your information only when we have a valid legal reason to do so. Learn more about [how we process your information](privacy-policy.md#2.-how-do-we-process-your-information).
+**How do I process your information?** I process your information to provide, improve, and administer my Services, communicate with you, for security and fraud prevention, and to comply with law. I may also process your information for other purposes with your consent. I process your information only when I have a valid legal reason to do so. Learn more about [how I process your information](privacy-policy.md#2.-how-do-we-process-your-information).
 
-**In what situations and with which parties do we share personal information?** We may share information in specific situations and with specific third parties. Learn more about [when and with whom we share your personal information](privacy-policy.md#4.-when-and-with-whom-do-we-share-your-information).
+**In what situations and with which parties do I share personal information?** I may share information in specific situations and with specific third parties. Learn more about [when and with whom I share your personal information](privacy-policy.md#4.-when-and-with-whom-do-we-share-your-information).
 
-**How do we keep your information safe?** We have organizational and technical processes and procedures in place to protect your personal information. However, no electronic transmission over the internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cyber criminals, or other unauthorized third parties will not be able to defeat our security and improperly collect, access, steal, or modify your information. Learn more about [how we keep your information safe](privacy-policy.md#7.-how-do-we-keep-your-information-safe).
+**How do I keep your information safe?** I have organizational and technical processes and procedures in place to protect your personal information. However, no electronic transmission over the internet or information storage technology can be guaranteed to be 100% secure, so I cannot promise or guarantee that hackers, cyber criminals, or other unauthorized third parties will not be able to defeat my security and improperly collect, access, steal, or modify your information. Learn more about [how I keep your information safe](privacy-policy.md#7.-how-do-we-keep-your-information-safe).
 
 **What are your rights?** Depending on where you are located geographically, the applicable privacy law may mean you have certain rights regarding your personal information. Learn more about [your privacy rights](privacy-policy.md#9.-what-are-your-privacy-rights).
 
-**How do you exercise your rights?** The easiest way to exercise your rights is by [contacting us](privacy-policy.md#13.-how-can-you-contact-us-about-this-notice). We will consider and act upon any request in accordance with applicable data protection laws.
+**How do you exercise your rights?** The easiest way to exercise your rights is by [contacting ](privacy-policy.md#13.-how-can-you-contact-us-about-this-notice)me. I will consider and act upon any request in accordance with applicable data protection laws.
 
-## 1. What information do we collect?
+## 1. What information do I collect?
 
-### Personal information you disclose to us
+### Personal information you disclose to me
 
-_**In Short:** We collect personal information that you provide to us._
+_**In Short:** I collect personal information that you provide to me._
 
-We collect personal information that you voluntarily provide to us when you express an interest in obtaining information about us or our products and Services, when you participate in activities on the Services, or otherwise when you contact us.
+I collect personal information that you voluntarily provide to me when you express an interest in obtaining information about me or my products and Services, when you participate in activities on the Services, or otherwise when you contact me.
 
-**Personal Information Provided by You.** The personal information that we collect depends on the context of your interactions with us and the Services, the choices you make, and the products and features you use. The personal information we collect may include the following:
+**Personal Information Provided by You.** The personal information that I collect depends on the context of your interactions with me and the Services, the choices you make, and the products and features you use. The personal information I collect may include the following:
 
 * first and last name
 * email addresses
 * contact preferences
-* personal address
+* home or business address
 * other personal data that you voluntarily submit, for instance, by completing a form on the Services
 
-**Sensitive Information.** We do not process sensitive information.
+**Sensitive Information.** I do not process sensitive information.
 
-All personal information that you provide to us must be true, complete, and accurate, and you must notify us of any changes to such personal information
+All personal information that you provide to me must be true, complete, and accurate, and you must notify me of any changes to such personal information.
 
 ### Information automatically collected
 
@@ -166,7 +166,7 @@ We have implemented appropriate and reasonable technical and organizational secu
 
 _**In Short:** We do not knowingly collect data from or market to children under 18 years of age._
 
-We do not knowingly solicit data from or market to children under 18 years of age. By using the Services, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Services. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we may have collected from children under age 18, please contact us at [legal@verbeerst.com](mailto:legal@verbeerst.com).
+We do not knowingly solicit data from or market to children under 18 years of age. By using the Services, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Services. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we may have collected from children under age 18, please contact us at [legal@thiboverbeerst.com](mailto:legal@thiboverbeerst.com).
 
 ## 9. What are your privacy rights?
 
@@ -194,7 +194,7 @@ You can unsubscribe from our marketing and promotional communications at any tim
 
 Most Web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove cookies and to reject cookies. If you choose to remove cookies or reject cookies, this could affect certain features or services of our Services.
 
-If you have questions or comments about your privacy rights, you may email us at [legal@verbeerst.com](mailto:legal@verbeerst.com).
+If you have questions or comments about your privacy rights, you may email us at [legal@thiboverbeerst.com](mailto:legal@thiboverbeerst.com).
 
 ## 10. Controls for do-not -track features
 
@@ -297,7 +297,7 @@ _<mark style="background-color:yellow;">Other privacy rights</mark>_
 * You can designate an authorized agent to make a request under the CCPA on your behalf. We may deny a request from an authorized agent that does not submit proof that they have been validly authorized to act on your behalf in accordance with the CCPA.
 * You may request to opt out from future selling or sharing of your personal information to third parties. Upon receiving an opt-out request, we will act upon the request as soon as feasibly possible, but no later than fifteen (15) days from the date of the request submission.
 
-To exercise these rights, you can contact us by email at [legal@verbeerst.com](mailto:legal@verbeerst.com), or by referring to the contact details at the bottom of this document. If you have a complaint about how we handle your data, we would like to hear from you.
+To exercise these rights, you can contact us by email at [legal@thiboverbeerst.com](mailto:legal@thiboverbeerst.com), or by referring to the contact details at the bottom of this document. If you have a complaint about how we handle your data, we would like to hear from you.
 
 ### Colorado Residents
 
@@ -310,9 +310,9 @@ This section applies only to Colorado residents. Under the Colorado Privacy Act 
 * Right to obtain a copy of the personal data you previously shared with us
 * Right to opt out of the processing of your personal data if it is used for targeted advertising, the sale of personal data, or profiling in furtherance of decisions that produce legal or similarly significant effects ("profiling")
 
-To submit a request to exercise these rights described above, please email [legal@verbeerst.com](mailto:legal@verbeerst.com).
+To submit a request to exercise these rights described above, please email  [legal@thiboverbeerst.com](mailto:legal@thiboverbeerst.com).
 
-If we decline to take action regarding your request and you wish to appeal our decision, please email us at [legal@verbeerst.com](mailto:legal@verbeerst.com). Within forty-five (45) days of receipt of an appeal, we will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions.
+If we decline to take action regarding your request and you wish to appeal our decision, please email us at [legal@thiboverbeerst.com](mailto:legal@thiboverbeerst.com). Within forty-five (45) days of receipt of an appeal, we will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions.
 
 ### Connecticut Residents
 
@@ -325,9 +325,9 @@ This section applies only to Connecticut residents. Under the Connecticut Data P
 * Right to obtain a copy of the personal data you previously shared with us
 * Right to opt out of the processing of your personal data if it is used for targeted advertising, the sale of personal data, or profiling in furtherance of decisions that produce legal or similarly significant effects ("profiling")
 
-To submit a request to exercise these rights described above, please email [legal@verbeerst.com](mailto:legal@verbeerst.com).
+To submit a request to exercise these rights described above, please email  [legal@thiboverbeerst.com](mailto:legal@thiboverbeerst.com).
 
-If we decline to take action regarding your request and you wish to appeal our decision, please email us at [legal@verbeerst.com](mailto:legal@verbeerst.com). Within sixty (60) days of receipt of an appeal, we will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions.
+If we decline to take action regarding your request and you wish to appeal our decision, please email us at [legal@thiboverbeerst.com](mailto:legal@thiboverbeerst.com). Within sixty (60) days of receipt of an appeal, we will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions.
 
 ### Utah Residents
 
@@ -339,7 +339,7 @@ This section applies only to Utah residents. Under the Utah Consumer Privacy Act
 * Right to obtain a copy of the personal data you previously shared with us
 * Right to opt out of the processing of your personal data if it is used for targeted advertising or the sale of personal data
 
-To submit a request to exercise these rights described above, please email [legal@verbeerst.com](mailto:legal@verbeerst.com).
+To submit a request to exercise these rights described above, please email  [legal@thiboverbeerst.com](mailto:legal@thiboverbeerst.com).
 
 ### Virginia Residents
 
@@ -364,7 +364,7 @@ _<mark style="background-color:yellow;">Your rights with respect to your persona
 
 _<mark style="background-color:yellow;">Exercise your rights provided under the Virginia VCDPA</mark>_
 
-You may contact us by email at [legal@verbeerst.com](mailto:legal@verbeerst.com).
+You may contact us by email at [legal@thiboverbeerst.com](mailto:legal@thiboverbeerst.com).
 
 If you are using an authorized agent to exercise your rights, we may deny a request if the authorized agent does not submit proof that they have been validly authorized to act on your behalf.
 
@@ -376,7 +376,7 @@ Upon receiving your request, we will respond without undue delay, but in all cas
 
 _<mark style="background-color:yellow;">Right to appeal</mark>_
 
-If we decline to take action regarding your request, we will inform you of our decision and reasoning behind it. If you wish to appeal our decision, please email us at [legal@verbeerst.com](mailto:legal@verbeerst.com). Within sixty (60) days of receipt of an appeal, we will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions. If your appeal is denied, you may contact the [Attorney General to submit a complaint](https://www.oag.state.va.us/consumer-protection/index.php/file-a-complaint).
+If we decline to take action regarding your request, we will inform you of our decision and reasoning behind it. If you wish to appeal our decision, please email us at [legal@thiboverbeerst.com](mailto:legal@thiboverbeerst.com). Within sixty (60) days of receipt of an appeal, we will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions. If your appeal is denied, you may contact the [Attorney General to submit a complaint](https://www.oag.state.va.us/consumer-protection/index.php/file-a-complaint).
 
 ## 12. Do we make updates to this notice?
 
@@ -386,8 +386,8 @@ We may update this privacy notice from time to time. The updated version will be
 
 ## 13. How can you contact us about this notice?
 
-If you have questions or comments about this notice, you may email us at [legal@verbeerst.com](mailto:legal@verbeerst.com).
+If you have questions or comments about this notice, you may email us at [legal@thiboverbeerst.com](mailto:legal@thiboverbeerst.com)
 
 ## 14. How can you review, update, or delete the data we collect from you?
 
-Based on the applicable laws of your country, you may have the right to request access to the personal information we collect from you, change that information, or delete it. To request to review, update, or delete your personal information, please contact us by email at [legal@verbeerst.com](mailto:legal@verbeerst.com).
+Based on the applicable laws of your country, you may have the right to request access to the personal information we collect from you, change that information, or delete it. To request to review, update, or delete your personal information, please contact us by email at [legal@thiboverbeerst.com](mailto:legal@thiboverbeerst.com).
