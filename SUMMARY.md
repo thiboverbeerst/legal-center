@@ -12,3 +12,4 @@
 ## Disclaimers
 
 * [Website Disclaimer](disclaimers/website-disclaimer.md)
+* [Cloud Disclaimer](disclaimers/cloud-disclaimer.md)
