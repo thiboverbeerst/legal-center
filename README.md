@@ -30,6 +30,6 @@ layout:
 
 <table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Outlines the limitations and legal boundaries of using my website, clarifying what I am and am not responsible for.</td><td><a href="disclaimers/website-disclaimer.md">Read my Website Disclaimer</a></td><td></td><td><a href=".gitbook/assets/Website Disclaimer.png">Website Disclaimer.png</a></td></tr></tbody></table>
 
-## Contact Us
+## Contact Me
 
 If you have any questions, concerns, or comments about my Legal Center or any of the documents or pages it contains, I'm here to help. Please feel free to reach out to me at [legal@thiboverbeerst.com](mailto:legal@thiboverbeerst.com). I take your inquiries seriously and will do my best to respond as promptly as possible.
