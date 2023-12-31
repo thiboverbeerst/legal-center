@@ -28,7 +28,7 @@ layout:
 
 ## Disclaimers
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Outlines the limitations and legal boundaries of using my website, clarifying what I am and am not responsible for.</td><td><a href="disclaimers/website-disclaimer.md">Read my Website Disclaimer</a></td><td></td><td><a href=".gitbook/assets/Website Disclaimer.png">Website Disclaimer.png</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Outlines the limitations and legal boundaries of using my services, clarifying what I am and am not responsible for.</td><td><a href="disclaimers/website-disclaimer.md">Read my Website Disclaimer</a><br><a href="disclaimers/infrastructure-disclaimer.md">Read my Infrastructure Disclaimer</a></td><td></td><td><a href=".gitbook/assets/Website Disclaimer.png">Website Disclaimer.png</a></td></tr></tbody></table>
 
 ## Contact Me
 
