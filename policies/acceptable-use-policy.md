@@ -17,7 +17,8 @@ I am Thibo Verbeerst ("**I**," "**me**," "**my**"), an individual registered in 
 
 * [https://www.thiboverbeerst.com](https://www.thiboverbeerst.com/);
 * [https://www.thiboverbeerst.cloud](https://www.thiboverbeerst.cloud/);
-* Any other website of mine that links to this Policy.
+* [https://www.nerdclub.io](https://www.nerdclub.io/);
+* any other website of mine that links to this Policy.
 
 ## Use of the services
 

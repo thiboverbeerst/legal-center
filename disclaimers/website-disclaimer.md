@@ -10,7 +10,8 @@ The information provided by Thibo Verbeerst ("**I**," "**me**," "**my**") on the
 
 * [https://www.thiboverbeerst.com](https://www.thiboverbeerst.com/);
 * [https://www.thiboverbeerst.cloud](https://www.thiboverbeerst.cloud/);
-* Any other website of mine that links to this disclaimer.
+* [https://www.nerdclub.io](https://www.nerdclub.io/);
+* any other website of mine that links to this disclaimer.
 
 All information on the Sites is offered in good faith. However, I make no representation or warranty of any kind, express or implied, regarding the accuracy, adequacy, validity, reliability, availability, or completeness of any information on the Sites.
 

@@ -19,7 +19,8 @@ I operate the following websites and services, which are collectively known as t
 
 * [https://www.thiboverbeerst.com](https://www.thiboverbeerst.com/);
 * [https://www.thiboverbeerst.cloud](https://www.thiboverbeerst.cloud/);
-* Any related products that refer or link to these legal terms (the "**Legal Terms**").
+* [https://www.nerdclub.io](https://www.nerdclub.io/);
+* any related products that refer or link to these legal terms (the "**Legal Terms**").
 
 Thibo Verbeerst is an IT Professional, interested in guiding businesses and individuals toward tech success through strategic advice and custom solutions.
 
