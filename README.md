@@ -3,11 +3,7 @@ description: >-
   Welcome to my Legal Center. This is your go-to resource for all legal
   documents, policies, and guidelines related to my services. Get informed and
   know your rights.
-coverY: 0
 layout:
-  cover:
-    visible: true
-    size: full
   title:
     visible: true
   description:
