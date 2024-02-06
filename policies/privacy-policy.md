@@ -14,7 +14,6 @@ description: >-
 This privacy notice for Thibo Verbeerst ("**I**," "**me**," or "**my**"), describes how and why I might collect, store, use, and/or share ("**process**") your information when you use my services ("**Services**"), such as when you:
 
 * visit my website at [https://www.thiboverbeerst.com](https://www.thiboverbeerst.com);
-* visit my website at [https://www.thiboverbeerst.cloud](https://www.thiboverbeerst.cloud/);
 * visit my website at [https://www.nerdclub.io](https://www.nerdclub.io/);
 * visit any other service of mine that links to this privacy notice;
 * engage with me in other related ways, including any sales, marketing, or events.
@@ -173,7 +172,7 @@ I do not knowingly solicit data from or market to children under 18 years of age
 
 ## 9. What are your privacy rights?
 
-_**In Short:** In some regions, such as the European Economic Area (EEA), United Kingdom (UK), Switzerland, and Canada, you have rights that allow you greater access to and control over your personal information. You may review, change, or terminate your account at any time._
+_**In Short:** In some regions, such as the European Economic Area (EEA), United Kingdom (UK), Switzerland, and Canada, you have rights that allow you access to and control over your personal information. You may review, change, or terminate your account at any time._
 
 In some regions (like the EEA, UK, Switzerland, and Canada), you have certain rights under applicable data protection laws. These may include the right (i) to request access and obtain a copy of your personal information, (ii) to request rectification or erasure; (iii) to restrict the processing of your personal information; (iv) if applicable, to data portability; and (v) not to be subject to automated decision-making. In certain circumstances, you may also have the right to object to the processing of your personal information. You can make such a request by contacting me by using the contact details provided in the section "[How can you contact me about this notice?](privacy-policy.md#13.-how-can-you-contact-me-about-this-notice)" below.
 
@@ -202,183 +201,6 @@ If you have questions or comments about your privacy rights, you may email me at
 ## 10. Controls for do-not -track features
 
 Most web browsers and some mobile operating systems and mobile applications include a Do-Not-Track ("DNT") feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected. At this stage no uniform technology standard for recognizing and implementing DNT signals has been finalized. As such, I do not currently respond to DNT browser signals or any other mechanism that automatically communicates your choice not to be tracked online. If a standard for online tracking is adopted that I must follow in the future, I will inform you about that practice in a revised version of this privacy notice.
-
-## 11. Do United States residents have specific privacy rights?
-
-_**In Short:** If you are a resident of California, Colorado, Connecticut, Utah or Virginia, you are granted specific rights regarding access to your personal information._
-
-**What categories of personal information do I collect?**
-
-I have collected the following categories of personal information in the past twelve (12) months:\\
-
-<table><thead><tr><th width="191">Category</th><th width="440.3333333333333">Examples</th><th width="113">Collected<select></select></th></tr></thead><tbody><tr><td>A. Identifiers</td><td>Contact details, such as real name, alias, postal address, telephone or mobile contact number, unique personal identifier, online identifier, Internet Protocol address, email address, and account name</td><td></td></tr><tr><td>B. Personal information as defined in the California Customer Records statute</td><td>Name, contact information, education, employment, employment history, and financial information</td><td></td></tr><tr><td>C. Protected classification characteristics under state or federal law</td><td>Gender and date of birth</td><td></td></tr><tr><td>D. Commercial information</td><td>Transaction information, purchase history, financial details, and payment information</td><td></td></tr><tr><td>E. Biometric information</td><td>Fingerprints and voiceprints</td><td></td></tr><tr><td>F. Internet or other similar network activity</td><td>Browsing history, search history, online behavior, interest data, and interactions with my and other websites, applications, systems, and advertisements</td><td></td></tr><tr><td>G. Geolocation data</td><td>Device location</td><td></td></tr><tr><td>H. Audio, electronic, visual, thermal, olfactory, or similar information</td><td>Images and audio, video or call recordings created in connection with my business activities</td><td></td></tr><tr><td>I. Professional or employment-related information</td><td>Business contact details in order to provide you my Services at a business level or job title, work history, and professional qualifications if you apply for a job with me</td><td></td></tr><tr><td>J. Education Information</td><td>Student records and directory information</td><td></td></tr><tr><td>K. Inferences drawn from collected personal information</td><td>Inferences drawn from any of the collected personal information listed above to create a profile or summary about, for example, an individual’s preferences and characteristics</td><td></td></tr><tr><td>L. Sensitive personal Information</td><td></td><td></td></tr></tbody></table>
-
-I will use and retain the collected personal information as needed to provide the Services or for:
-
-* Category A - As long as the user has an account with me
-* Category B - As long as the user has an account with me
-* Category F - As long as the user has an account with me
-* Category K - As long as the user has an account with me
-
-I may also collect other personal information outside of these categories through instances where you interact with me in person, online, or by phone or mail in the context of:
-
-* Receiving help through my customer support channels;
-* Participation in customer surveys or contests; and
-* Facilitation in the delivery of my Services and to respond to your inquiries.
-
-**How do I use and share your personal information?**
-
-Learn about how I use your personal information in the section, "[How do I process your information?](privacy-policy.md#2.-how-do-I-process-your-information)"
-
-**Will your information be shared with anyone else?**
-
-I may disclose your personal information with my service providers pursuant to a written contract between me and each service provider. Learn more about how I disclose personal information to in the section, "[When and with whom do I share your information?](privacy-policy.md#4.-when-and-with-whom-do-I-share-your-information)"
-
-I may use your personal information for my own business purposes, such as for undertaking internal research for technological development and demonstration. This is not considered to be "selling" of your personal information.
-
-I have not disclosed, sold, or shared any personal information to third parties for a business or commercial purpose in the preceding twelve (12) months. I will not sell or share personal information in the future belonging to website visitors, users, and other consumers.
-
-### California Residents
-
-California Civil Code Section 1798.83, also known as the "Shine The Light" law permits my users who are California residents to request and obtain from me, once a year and free of charge, information about categories of personal information (if any) I disclosed to third parties for direct marketing purposes and the names and addresses of all third parties with which I shared personal information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to me using the contact information provided below.
-
-If you are under 18 years of age, reside in California, and have a registered account with the Services, you have the right to request removal of unwanted data that you publicly post on the Services. To request removal of such data, please contact me using the contact information provided below and include the email address associated with your account and a statement that you reside in California. I will make sure the data is not publicly displayed on the Services, but please be aware that the data may not be completely or comprehensively removed from all my systems (e.g., backups, etc.).
-
-#### **CCPA Privacy Notice**
-
-This section applies only to California residents. Under the California Consumer Privacy Act (CCPA), you have the rights listed below.
-
-The California Code of Regulations defines a "residents" as:
-
-* (1) every individual who is in the State of California for other than a temporary or transitory purpose and
-* (2) every individual who is domiciled in the State of California who is outside the State of California for a temporary or transitory purpose
-
-All other individuals are defined as "non-residents."
-
-If this definition of "resident" applies to you, I must adhere to certain rights and obligations regarding your personal information.
-
-#### **Your rights with respect to your personal data**
-
-_<mark style="background-color:yellow;">Right to request deletion of the data — Request to delete</mark>_
-
-You can ask for the deletion of your personal information. If you ask me to delete your personal information, I will respect your request and delete your personal information, subject to certain exceptions provided by law, such as (but not limited to) the exercise by another consumer of his or her right to free speech, my compliance requirements resulting from a legal obligation, or any processing that may be required to protect against illegal activities.
-
-_<mark style="background-color:yellow;">Right to be informed — Request to know</mark>_
-
-Depending on the circumstances, you have a right to know:
-
-* whether I collect and use your personal information;
-* the categories of personal information that I collect;
-* the purposes for which the collected personal information is used;
-* whether I sell or share personal information to third parties;
-* the categories of personal information that I sold, shared, or disclosed for a business purpose;
-* the categories of third parties to whom the personal information was sold, shared, or disclosed for a business purpose;
-* the business or commercial purpose for collecting, selling, or sharing personal information; and
-* the specific pieces of personal information I collected about you.
-
-In accordance with applicable law, I am not obligated to provide or delete consumer information that is de-identified in response to a consumer request or to re-identify individual data to verify a consumer request.
-
-_<mark style="background-color:yellow;">Right to Non-Discrimination for the Exercise of a Consumer’s Privacy Rights</mark>_
-
-I will not discriminate against you if you exercise your privacy rights.
-
-_<mark style="background-color:yellow;">Right to Limit Use and Disclosure of Sensitive Personal Information</mark>_
-
-I do not process consumer's sensitive personal information.
-
-_<mark style="background-color:yellow;">Verification process</mark>_
-
-Upon receiving your request, I will need to verify your identity to determine you are the same person about whom I have the information in my system. These verification efforts require me to ask you to provide information so that I can match it with information you have previously provided me. For instance, depending on the type of request you submit, I may ask you to provide certain information so that I can match the information you provide with the information I already have on file, or I may contact you through a communication method (e.g., phone or email) that you have previously provided to me. I may also use other verification methods as the circumstances dictate.
-
-I will only use personal information provided in your request to verify your identity or authority to make the request. To the extent possible, I will avoid requesting additional information from you for the purposes of verification. However, if I cannot verify your identity from the information already maintained by me, I may request that you provide additional information for the purposes of verifying your identity and for security or fraud-prevention purposes. I will delete such additionally provided information as soon as I finish verifying you.
-
-_<mark style="background-color:yellow;">Other privacy rights</mark>_
-
-* You may object to the processing of your personal information.
-* You may request correction of your personal data if it is incorrect or no longer relevant, or ask to restrict the processing of the information.
-* You can designate an authorized agent to make a request under the CCPA on your behalf. I may deny a request from an authorized agent that does not submit proof that they have been validly authorized to act on your behalf in accordance with the CCPA.
-* You may request to opt out from future selling or sharing of your personal information to third parties. Upon receiving an opt-out request, I will act upon the request as soon as feasibly possible, but no later than fifteen (15) days from the date of the request submission.
-
-To exercise these rights, you can contact me by email at [legal@thiboverbeerst.com](mailto:legal@thiboverbeerst.com), or by referring to the contact details at the bottom of this document. If you have a complaint about how I handle your data, I would like to hear from you.
-
-### Colorado Residents
-
-This section applies only to Colorado residents. Under the Colorado Privacy Act (CPA), you have the rights listed below. However, these rights are not absolute, and in certain cases, I may decline your request as permitted by law.
-
-* Right to be informed whether or not I am processing your personal data
-* Right to access your personal data
-* Right to correct inaccuracies in your personal data
-* Right to request deletion of your personal data
-* Right to obtain a copy of the personal data you previously shared with me
-* Right to opt out of the processing of your personal data if it is used for targeted advertising, the sale of personal data, or profiling in furtherance of decisions that produce legal or similarly significant effects ("profiling")
-
-To submit a request to exercise these rights described above, please email [legal@thiboverbeerst.com](mailto:legal@thiboverbeerst.com).
-
-If I decline to take action regarding your request and you wish to appeal my decision, please email me at [legal@thiboverbeerst.com](mailto:legal@thiboverbeerst.com). Within forty-five (45) days of receipt of an appeal, I will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions.
-
-### Connecticut Residents
-
-This section applies only to Connecticut residents. Under the Connecticut Data Privacy Act (CTDPA), you have the rights listed below. However, these rights are not absolute, and in certain cases, I may decline your request as permitted by law.
-
-* Right to be informed whether or not I am processing your personal data
-* Right to access your personal data
-* Right to correct inaccuracies in your personal data
-* Right to request deletion of your personal data
-* Right to obtain a copy of the personal data you previously shared with me
-* Right to opt out of the processing of your personal data if it is used for targeted advertising, the sale of personal data, or profiling in furtherance of decisions that produce legal or similarly significant effects ("profiling")
-
-To submit a request to exercise these rights described above, please email [legal@thiboverbeerst.com](mailto:legal@thiboverbeerst.com).
-
-If I decline to take action regarding your request and you wish to appeal my decision, please email me at [legal@thiboverbeerst.com](mailto:legal@thiboverbeerst.com). Within sixty (60) days of receipt of an appeal, I will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions.
-
-### Utah Residents
-
-This section applies only to Utah residents. Under the Utah Consumer Privacy Act (UCPA), you have the rights listed below. However, these rights are not absolute, and in certain cases, I may decline your request as permitted by law.
-
-* Right to be informed whether or not I am processing your personal data
-* Right to access your personal data
-* Right to request deletion of your personal data
-* Right to obtain a copy of the personal data you previously shared with me
-* Right to opt out of the processing of your personal data if it is used for targeted advertising or the sale of personal data
-
-To submit a request to exercise these rights described above, please email [legal@thiboverbeerst.com](mailto:legal@thiboverbeerst.com).
-
-### Virginia Residents
-
-Under the Virginia Consumer Data Protection Act (VCDPA):
-
-"Consumer" means a natural person who is a resident of the Commonwealth acting only in an individual or household context. It does not include a natural person acting in a commercial or employment context.
-
-"Personal data" means any information that is linked or reasonably linkable to an identified or identifiable natural person. "Personal data" does not include de-identified data or publicly available information.
-
-"Sale of personal data" means the exchange of personal data for monetary consideration.
-
-If this definition of "consumer" applies to you, I must adhere to certain rights and obligations regarding your personal data.
-
-_<mark style="background-color:yellow;">Your rights with respect to your personal data</mark>_
-
-* Right to be informed whether or not I am processing your personal data
-* Right to access your personal data
-* Right to correct inaccuracies in your personal data
-* Right to request deletion of your personal data
-* Right to obtain a copy of the personal data you previously shared with me
-* Right to opt out of the processing of your personal data if it is used for targeted advertising, the sale of personal data, or profiling in furtherance of decisions that produce legal or similarly significant effects ("profiling")
-
-_<mark style="background-color:yellow;">Exercise your rights provided under the Virginia VCDPA</mark>_
-
-You may contact me by email at [legal@thiboverbeerst.com](mailto:legal@thiboverbeerst.com).
-
-If you are using an authorized agent to exercise your rights, I may deny a request if the authorized agent does not submit proof that they have been validly authorized to act on your behalf.
-
-_<mark style="background-color:yellow;">Verification process</mark>_
-
-I may request that you provide additional information reasonably necessary to verify you and your consumer's request. If you submit the request through an authorized agent, I may need to collect additional information to verify your identity before processing your request.
-
-Upon receiving your request, I will respond without undue delay, but in all cases, within forty-five (45) days of receipt. The response period may be extended once by forty-five (45) additional days when reasonably necessary. I will inform you of any such extension within the initial 45-day response period, together with the reason for the extension.
-
-_<mark style="background-color:yellow;">Right to appeal</mark>_
-
-If I decline to take action regarding your request, I will inform you of my decision and reasoning behind it. If you wish to appeal my decision, please email me at [legal@thiboverbeerst.com](mailto:legal@thiboverbeerst.com). Within sixty (60) days of receipt of an appeal, I will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions. If your appeal is denied, you may contact the [Attorney General to submit a complaint](https://www.oag.state.va.us/consumer-protection/index.php/file-a-complaint).
 
 ## 12. Do I make updates to this notice?
 

@@ -18,7 +18,6 @@ I am Thibo Verbeerst ("**I**," "**me**," "**my**"), an individual registered in 
 I operate the following websites and services, which are collectively known as the "**Services**":
 
 * [https://www.thiboverbeerst.com](https://www.thiboverbeerst.com/);
-* [https://www.thiboverbeerst.cloud](https://www.thiboverbeerst.cloud/);
 * [https://www.nerdclub.io](https://www.nerdclub.io/);
 * any related products that refer or link to these legal terms (the "**Legal Terms**").
 
@@ -193,10 +192,6 @@ I will maintain certain data that you transmit to the Services for the purpose o
 ## 19. Electronic Communications, Transactions, and Signatures
 
 Visiting the Services, sending me emails, and completing online forms constitute electronic communications. You consent to receive electronic communications, and you agree that all agreements, notices, disclosures, and other communications I provide to you electronically, via email and on the Services, satisfy any legal requirement that such communication be in writing. YOU HEREBY AGREE TO THE USE OF ELECTRONIC SIGNATURES, CONTRACTS, ORDERS, AND OTHER RECORDS, AND TO ELECTRONIC DELIVERY OF NOTICES, POLICIES, AND RECORDS OF TRANSACTIONS INITIATED OR COMPLETED BY ME OR VIA THE SERVICES. You hereby waive any rights or requirements under any statutes, regulations, rules, ordinances, or other laws in any jurisdiction which require an original signature or delivery or retention of non-electronic records, or to payments or the granting of credits by any means other than electronic means.
-
-## 20. California Users and Residents
-
-If any complaint with me is not satisfactorily resolved, you can contact the Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs in writing at 1625 North Market Blvd., Suite N 112, Sacramento, California 95834 or by telephone at (800) 952-5210 or (916) 445-1254.
 
 ## 21. Miscellaneous
 
