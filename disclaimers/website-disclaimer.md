@@ -9,7 +9,6 @@
 The information provided by Thibo Verbeerst ("**I**," "**me**," "**my**") on the following sites (collectively referred to as the "**Sites**") is for general informational purposes only:
 
 * [https://www.thiboverbeerst.com](https://www.thiboverbeerst.com/);
-* [https://www.nerdclub.io](https://www.nerdclub.io/);
 * any other website of mine that links to this disclaimer.
 
 All information on the Sites is offered in good faith. However, I make no representation or warranty of any kind, express or implied, regarding the accuracy, adequacy, validity, reliability, availability, or completeness of any information on the Sites.

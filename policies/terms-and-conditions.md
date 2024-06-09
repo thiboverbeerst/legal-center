@@ -18,7 +18,6 @@ I am Thibo Verbeerst ("**I**," "**me**," "**my**"), an individual registered in 
 I operate the following websites and services, which are collectively known as the "**Services**":
 
 * [https://www.thiboverbeerst.com](https://www.thiboverbeerst.com/);
-* [https://www.nerdclub.io](https://www.nerdclub.io/);
 * any related products that refer or link to these legal terms (the "**Legal Terms**").
 
 Thibo Verbeerst is an IT Professional, interested in guiding businesses and individuals toward tech success through strategic advice and custom solutions.

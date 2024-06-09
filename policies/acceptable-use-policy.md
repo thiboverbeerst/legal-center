@@ -16,7 +16,6 @@ Please carefully review this Policy which applies to any and all:
 I am Thibo Verbeerst ("**I**," "**me**," "**my**"), an individual registered in Belgium. I operate the following sites and services, which together with any related products, are collectively referred to as the "**Services**":
 
 * [https://www.thiboverbeerst.com](https://www.thiboverbeerst.com/);
-* [https://www.nerdclub.io](https://www.nerdclub.io/);
 * any other website of mine that links to this Policy.
 
 ## Use of the services

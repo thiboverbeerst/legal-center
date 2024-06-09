@@ -14,7 +14,6 @@ description: >-
 This privacy notice for Thibo Verbeerst ("**I**," "**me**," or "**my**"), describes how and why I might collect, store, use, and/or share ("**process**") your information when you use my services ("**Services**"), such as when you:
 
 * visit my website at [https://www.thiboverbeerst.com](https://www.thiboverbeerst.com);
-* visit my website at [https://www.nerdclub.io](https://www.nerdclub.io/);
 * visit any other service of mine that links to this privacy notice;
 * engage with me in other related ways, including any sales, marketing, or events.
 

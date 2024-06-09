@@ -14,7 +14,6 @@ description: >-
 This Cookie Policy explains how Thibo Verbeerst ("**I**," "**me**," and "**my**"), uses cookies and similar technologies to recognize you when you use my websites ("**Websites**"), such as when you:
 
 * visit my website at [https://www.thiboverbeerst.com](https://www.thiboverbeerst.com);
-* visit my website at [https://www.nerdclub.io](https://www.nerdclub.io/);
 * visit any other website of mine that links to this Policy;
 
 This Cookie Policy explains what these technologies are and why I use them, as well as your rights to control my use of them.
